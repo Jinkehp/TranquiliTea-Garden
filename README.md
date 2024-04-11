@@ -8,7 +8,7 @@ Simply turn it on with the switch, scan the label of your chosen tea flavour, an
 ## User notes
   - There are LEDs to indicate when you need to scan the label and when to put in the temperature sensor.
   - If you want to change the music volume depending on the space you are in or the your preferred tea drinking temperature, adjust the variables for it in the Constant/Global variables part of the code.
-  - If you just want to use the product as a demo, connect the product to a laptop/computer with an IDE and use the serial monitor to input 'i' (temperature sensor is in) or 'g' (temperature is good/cooled down) to manually control the sensor booleans.
+  - If you just want to use the product as a demo, connect the product to a laptop/computer with an IDE and use the serial monitor to input 'i' (temperature sensor is in) or 'g' (temperature is good/cooled down) to manually control the sensor booleans. Make sure to set the hotTemp and goodTemp variables to a higher and lower number respectively.
   - If the product does not function as should, connect it to a laptop/computer and use the serial monitor to debug it. Probably the wiring got compromised.
   - The mist module in the code is optional. By default it is not used and its code is commented out.
 
