@@ -1,4 +1,4 @@
-# TranquiliTea-Garden
+# TranquiliTea Garden
 This is a product created by Tea(m) Pot. This code is used to support our product "The TranquiliTea Garden". This is a product that is created for the course "Interaction Technology Innovation" at Utrecht University, as part of the Human-Computer Interaction Master's programme.
 
 The product is an interactive Zen garden around the tea drinking experience. It aims to stimulate the user to create a conscious moment of relaxation and refreshment.
