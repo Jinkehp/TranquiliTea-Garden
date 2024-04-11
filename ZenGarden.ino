@@ -585,7 +585,7 @@ void mp3Summer(int trackNumber) {
 
 void mp3Gong() {
     /*
-     * Play the sfx for "the tea is ready" indication.
+     * Play the singing bowl sfx for "the tea is ready" indication.
      */
     int delayms=100;
     Serial.println(F("Play \"SD:/5/001\""));  // Sfx folder, .wav or .mp3 file
