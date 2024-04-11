@@ -56,6 +56,8 @@ The mist module is optional. By default it is not used and its code is commented
   - HardwareSerial
   - Adafruit_NeoPixel
 
+Also make sure to install support for the ESP32-S3-DevKitC-1 board: esp32 by Espressif Systems.
+
 
 ## Used tutorials and guides
   - https://arduinogetstarted.com/tutorials/arduino-switch?utm_content=cmp-true
