@@ -126,8 +126,8 @@ bool isLedIndicationOFF = false;
 // Water temperature sensor.
 bool isTempIn = false;
 bool isTempGood = false;
-const int hotTemp = 60;
-const int goodTemp = 53;
+const int hotTemp = 60;  // Minimum temperature to detect if the sensor is placed in the water
+const int goodTemp = 53;  // Temperature at which the tea can be drunk
 const int tempWireBus = 1;
 OneWire tempWire(tempWireBus);
 DallasTemperature tempSensor(&tempWire);
