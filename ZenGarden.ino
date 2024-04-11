@@ -139,7 +139,7 @@ DallasTemperature tempSensor(&tempWire);
 const byte TX_Pin = 17;
 const byte RX_Pin = 18;
 DFRobotDFPlayerMini player;
-const int mp3Volume1 = 30;  // Set volume to maximum (0 to 30).
+const int mp3Volume1 = 20;  // Set volume to maximum (0 to 30).
 bool isMusicOn = false;
 bool isGongPlayed = false;
 static unsigned long gongTimer;
