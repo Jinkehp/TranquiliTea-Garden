@@ -45,13 +45,14 @@ The mist module is optional. By default it is not used and its code is commented
 
 
 ## Libraries
+These are also listed in the tutorials.
   - ezButton
   - Wire
   - PN532_I2C
   - PN532
   - NfcAdapter
   - DallasTemperature
-  - OneWire.h>
+  - OneWire
   - DFRobotDFPlayerMini
   - HardwareSerial
   - Adafruit_NeoPixel
@@ -60,6 +61,7 @@ Also make sure to install support for the ESP32-S3-DevKitC-1 board: esp32 by Esp
 
 
 ## Used tutorials and guides
+These are the used tutorials and guide from which code was taken and/or inspired.
   - https://arduinogetstarted.com/tutorials/arduino-switch?utm_content=cmp-true
   - https://warlord0blog.wordpress.com/2021/10/09/esp32-and-nfc-over-i2c/
   - https://www.elechouse.com/elechouse/images/product/PN532_module_V3/PN532_%20Manual_V3.pdf
