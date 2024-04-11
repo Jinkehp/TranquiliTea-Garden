@@ -72,3 +72,6 @@ The mist module is optional. By default it is not used and its code is commented
       - Fade in/out
       - Twinkle
       - Snow sparkle
+
+## Wiring
+For the wiring, see the comments on the top of the ZenGarden.ino file.
