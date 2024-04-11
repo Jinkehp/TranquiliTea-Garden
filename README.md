@@ -35,7 +35,7 @@ The mist module is optional. By default it is not used and its code is commented
     https://www.tinytronics.nl/en/components/capacitors/4700uf-16v-elektrolytic-capacitor
   - Switch: 1x;
     https://www.tinytronics.nl/en/switches/manual-switches/rocker-switches/standaard-built-in-rocker-switch-normal
-  - RGB LEDs common anode: 2x;
+  - RGB LEDs common anode (as the NFC and water temperature sensor indicators): 2x;
     https://hackerstore.nl/Artikel/697
   - 270 Ohm Resistor: 6x;
   - Esp32-S3-DevKitC-1: 1x;
